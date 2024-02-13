@@ -9,7 +9,7 @@ body{
 .container {
     background-color: hsl(0, 0%, 12%);
     border-radius: 20px;
-padding: 50px 50px 5px 50px;
+padding: 50px 40px 5px 40px;
 display: flex;
 flex-direction: column;
 }
@@ -48,7 +48,8 @@ h3{
     margin-bottom: -1px;
 }
 ul{
-    display: block;
+    list-style-type: none;
+padding-left: 10px;
     margin-left: auto;
     margin-right: auto;
     color: hsl(0, 0%, 100%);
