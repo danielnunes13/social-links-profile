@@ -47,14 +47,14 @@ h3{
     font-family: 'Inter-normal';
     margin-bottom: -1px;
 }
-dl{
+ul{
     display: block;
     margin-left: auto;
     margin-right: auto;
     color: hsl(0, 0%, 100%);
     
 }
-dd{
+li{
     margin-top: 15px;
     margin-bottom: 10px;
     display: flex;
