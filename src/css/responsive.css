@@ -1,0 +1,13 @@
+@media (max-width: 414px){
+.container{
+    padding: 25px 20px 5px;
+    width: 80%;
+    justify-content: center;
+    flex-direction: column;
+    margin-inline: 15px;
+}
+dt{
+    padding-inline: 70px;
+}
+
+}
