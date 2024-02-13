@@ -54,7 +54,7 @@ dl{
     color: hsl(0, 0%, 100%);
     
 }
-dt{
+dd{
     margin-top: 15px;
     margin-bottom: 10px;
     display: flex;
