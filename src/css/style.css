@@ -15,11 +15,11 @@ flex-direction: column;
 }
 img{
     border-radius: 50%;
-    width: 150px;
+    width: 100px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 20px;
+    margin-bottom: 10px;
 }
 h1{
     display: block;
